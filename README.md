@@ -15,7 +15,7 @@ Official implementation of the paper "Distributionally Robust Off-Dynamics Reinf
 
 
 ### Dependencies
-- python==3.7
+- python == 3.7
 - scipy == 1.7.3
 - matplotlib == 2.2.3
 - numpy == 1.21.6
