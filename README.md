@@ -27,6 +27,6 @@ Official implementation of the paper "Distributionally Robust Off-Dynamics Reinf
   title={Distributionally Robust Off-Dynamics Reinforcement Learning: Provable Efficiency with Linear Function Approximation},
   author={Liu, Zhishuai and Xu, Pan},
   booktitle={International Conference on Artificial Intelligence and Statistics},
-  year={2024}.
+  year={2024}
 }
 ```
