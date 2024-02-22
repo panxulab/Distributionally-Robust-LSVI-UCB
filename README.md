@@ -5,7 +5,7 @@
   <a href="https://panxulab.github.io/">Pan Xu</a><sup>*</sup>
 </p>
 <p align="center">
-<sup>*</sup> Duke University ·
+<sup>*</sup> Duke University
 </p>
 
 
