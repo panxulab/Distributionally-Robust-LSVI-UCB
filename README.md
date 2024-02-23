@@ -1,5 +1,5 @@
 # Distributionally Robust Off-Dynamics Reinforcement Learning: Provable Efficiency with Linear Function Approximation
-### <p align="center">[AISTATS 2024 Poster]</p>
+### <p align="center">[AISTATS 2024]</p>
 <p align="center">
   <a>Zhishuai Liu</a><sup>*</sup> ·
   <a href="https://panxulab.github.io/">Pan Xu</a><sup>*</sup>
@@ -9,7 +9,7 @@
 </p>
 
 
-Official implementation of the paper "Distributionally Robust Off-Dynamics Reinforcement Learning: Provable Efficiency with Linear Function Approximation".
+Official implementation of the paper "Distributionally Robust Off-Dynamics Reinforcement Learning: Provable Efficiency with Linear Function Approximation", which is published in the Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS).
 
 ## Installation instructions
 
