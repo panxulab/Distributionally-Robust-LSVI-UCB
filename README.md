@@ -2,7 +2,7 @@
 ### <p align="center">[AISTATS 2024]</p>
 <p align="center">
   <a>Zhishuai Liu</a> ·
-  <a href="https://panxulab.github.io/">Pan Xu</a><sup>*</sup>
+  <a href="https://panxulab.github.io/">Pan Xu</a>
 </p>
 <p align="center">
 Duke University
